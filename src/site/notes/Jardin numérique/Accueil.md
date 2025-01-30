@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jardin-numerique/accueil/","tags":["jardin_numérique"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/jardin-numerique/accueil/","tags":["jardin_numérique","gardenEntry"],"noteIcon":""}
 ---
 
 
